@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(0, 255, 0,0.2);
+    margin:0 20%;
+    font-family: 'Macondo';
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    font-size: 3em;
+}
+#tribute-info {
+    font-size: 20px;
+}
+
+img{
+    display: block;
+    width: 40%;
+    margin: 0 30%;
+}
+
+#img-caption{
+    text-align: center;
+    font-size: 11px;
+}
+
+div#tribute-info{
+    background-color:rgba(0,0,0,0.2);
+    box-shadow: 20px 20px 15px grey;
+    padding:5px 10px;
+    margin-top:20px;
+}
+h1.title{
+    color:white;
+    text-align:center;
+    text-shadow: 5px 5px 10px black;
+}
